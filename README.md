@@ -52,3 +52,7 @@ Copy the the numbers in the url after "https://www.deezer.com/en/playlist/" (see
 
 #### 5.3
 paste this into the `config.deezer.playlist` field
+
+## Todo:
+- [ ] Spotify 100 track per request limit workaround
+- [ ] Create Spotify to Deezer

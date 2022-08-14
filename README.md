@@ -1,6 +1,7 @@
 # Deezify
- Convert a Deezer playlist to a Spotify playlist
 
+<img src="https://user-images.githubusercontent.com/48888771/184544075-e004e4c6-aaf4-4c10-9e64-2eb464dcbb77.png" data-canonical-src="https://user-images.githubusercontent.com/48888771/184544075-e004e4c6-aaf4-4c10-9e64-2eb464dcbb77.png" width="100" height="100" />
+ Convert a Deezer playlist to a Spotify playlist
 
 
 

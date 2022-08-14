@@ -8,7 +8,7 @@
 
 ### Value 1: `token`
 #### 1.1
-go to [this website](https://developer.spotify.com/console/get-current-user/)
+log into Spotify and go to [this website](https://developer.spotify.com/console/get-current-user/)
  
 #### 1.2
 copy the text that is circled in this image (the part after bearer)

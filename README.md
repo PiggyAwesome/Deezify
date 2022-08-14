@@ -2,22 +2,23 @@
  Convert a Deezer playlist to a Spotify playlist
 
 
-### For this application, you will need 5 different config values.
-
-#### the config is inside main.py
 
 
-+ [Value 1:](https://github.com/PiggyAwesome/Deezify/#value-1-token)
-+ + [Value 1.1:](https://github.com/PiggyAwesome/Deezify/#11)
-+ + [Value 1.2:](https://github.com/PiggyAwesome/Deezify/#12)
-+ + [Value 1.3:](https://github.com/PiggyAwesome/Deezify/#13)
-+ [Value 2:](https://github.com/PiggyAwesome/Deezify/#value-2-playlist_name)
-+ [Value 3:](https://github.com/PiggyAwesome/Deezify/#value-3-description)
-+ [Value 4:](https://github.com/PiggyAwesome/Deezify/#value-4-user)
-+ [Value 5:](https://github.com/PiggyAwesome/Deezify/#value-5-playlist)
-+ + [Value 5.1:](https://github.com/PiggyAwesome/Deezify/#51)
-+ +  [Value 5.2:](https://github.com/PiggyAwesome/Deezify/#52)
-+ + [Value 5.3:](https://github.com/PiggyAwesome/Deezify/#53)
+#### For this application, you will need 5 different config values.
+#### config is inside main.py
+
+## Config index:
+- [Value 1:](https://github.com/PiggyAwesome/Deezify/#value-1-token)
+     - [Value 1.1:](https://github.com/PiggyAwesome/Deezify/#11)
+     - [Value 1.2:](https://github.com/PiggyAwesome/Deezify/#12)
+     - [Value 1.3:](https://github.com/PiggyAwesome/Deezify/#13)
+- [Value 2:](https://github.com/PiggyAwesome/Deezify/#value-2-playlist_name)
+- [Value 3:](https://github.com/PiggyAwesome/Deezify/#value-3-description)
+- [Value 4:](https://github.com/PiggyAwesome/Deezify/#value-4-user)
+- [Value 5:](https://github.com/PiggyAwesome/Deezify/#value-5-playlist)
+     - [Value 5.1:](https://github.com/PiggyAwesome/Deezify/#51)
+     - [Value 5.2:](https://github.com/PiggyAwesome/Deezify/#52)
+     - [Value 5.3:](https://github.com/PiggyAwesome/Deezify/#53)
 
 ### Value 1: `token`
 #### 1.1
